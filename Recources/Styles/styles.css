@@ -135,6 +135,8 @@ nav ul li:hover {
     align-items: center;
 }
 
+/* Project */
+
 .project-container {
     display: flex;
     justify-content: space-around;
